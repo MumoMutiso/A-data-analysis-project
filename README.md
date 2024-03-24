@@ -26,6 +26,7 @@ Amount($): Funds raised. Float.
 Stage: Round of funding. Object.
 
 Hypothesis
+
 ***Null Hypothesis(Ho)***: There is no siginificate difference in the amount of funding between startups in Bangalore.
 
 ***Alternative Hypothesis(Ha)***: There is a siginificant difference in the amount of funding between startups in Banaglore.
@@ -33,6 +34,7 @@ Hypothesis
 In line with the above, several questions were asked and some findings made accordingly.
 
 Conclusion
+
 Based on my analysis, it's clear that the **Technology** sector has been a standout performer in terms of funding trends from 2018 to 2021. This sector, along with related tech-incorporated sectors like Commerce, Transport and Finance, presents promising opportunities for investors and entrepreneurs. Additionally, Bangalore and Mumbai, being prominent hubs for startups and investments, offer valuable networking prospects. Therefore, exploring opportunities in tech-driven sectors and engaging with Mumbai's startup ecosystem could lead to favourable outcomes in terms of growth and innovation.
 
 Article :
