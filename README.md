@@ -5,6 +5,11 @@ In this project, I delved into the investment landscape of Indian startups spann
 
 Throughout the analysis, I utilized VScode and Jupyter notebook as my primary tools.
 
+### Summary
+| Project Code | Project Name | Published Article | Power BI Dashboard |Libraries Used|
+|--------------|--------------|-------------------|-----------------|--------------|
+| LP1          | India <br> Startup <br> Funding <br> Analysis| Article | PowerBI|Pandas <br> Numpy <br> Matplotlib <br> Seaborn|
+
 **Column names and description:**
 
 Company/Brand: Name of the start-up.Object.
